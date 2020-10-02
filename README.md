@@ -16,9 +16,11 @@
 
 In order to work with Nvidia GPUs **nanominer** needs Nvidia driver **410.48 and newer on Linux** or **411.31 and newer on Windows**.
 
-In order to begin mining Ethereum with nanominer, ***it's enough to simply input your wallet*** in the configuration file.
+In order to begin mining Ethereum with nanominer,       ***it's enough to simply input your wallet*** in the configuration file.   
 
-Testing on **nanominer** demonstrated high performance working with Ethereum, Ethereum Classic, QuarkChain, Ubiq, Monero, Pascal, Cortex and other currencies. As a result of the research carried out, it was found that **nanominer** performs on par with, and sometimes better than, competing program products. Independently of this, **nanominer** stands out with its high stability and simple setup.
+Testing on **nanominer** demonstrated high performance working with Ethereum, Ethereum Classic, QuarkChain, Ubiq, Monero, Pascal, Cortex and other currencies.
+As a result of the research carried out, it was found that **nanominer** performs on par with, and sometimes better than, competing program products.
+Independently of this, **nanominer** stands out with its high stability and simple setup.
 
 ## Reporting bugs and technical support
 For reporting bugs, technical support, feature requests and community discussions feel free to use the following communication channels:
